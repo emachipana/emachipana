@@ -1,4 +1,6 @@
 ### Hi there 👋
+
+[![emachipana's GitHub stats](https://github-readme-stats.vercel.app/api?username=emachipana)](https://github.com/emachipana/github-readme-stats)
 <!--
 **emachipana/emachipana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
