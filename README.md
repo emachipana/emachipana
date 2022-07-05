@@ -10,6 +10,8 @@
     <a href="https://www.instagram.com/enmanuelchipana/" alt="Instagram">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
     </a>
+    <br>
+    <a href="https://emachipana.vercel.app/">Personal Site</a>
 </p>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
