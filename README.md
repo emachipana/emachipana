@@ -1,12 +1,14 @@
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 <h2>Hi there I'm Enmanuel👋</h2>
+<a href="/www.linkedin.com/in/enmanuel-chipana-araujo-44aa5a226" target="_blank">Linkdin</a>
+
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🧠 &nbsp; Passionate about technology and eternal self-taught.
 - 👨‍💻 &nbsp; I am always open to learning new technologies.
 - 😎 &nbsp; In my free time I go out for a bike ride and play with friends.
 
-<h3>💻 &nbsp;Currently working on </h3>
+<h3>💻 &nbsp;My tech Stack </h3>
 
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -28,6 +30,8 @@
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+<h3>🤖 &nbsp;Stats </h3>
 
 ![emachipana's GitHub stats](https://github-readme-stats.vercel.app/api?username=emachipana&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emachipana&layout=compact&theme=dracula)
