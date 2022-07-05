@@ -8,6 +8,7 @@
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
 <h2>🖥 Languages</h2>
+![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
 ![emachipana's GitHub stats](https://github-readme-stats.vercel.app/api?username=emachipana&show_icons=true&theme=dracula)
 
