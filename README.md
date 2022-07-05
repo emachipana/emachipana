@@ -7,6 +7,8 @@
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
+<h2>🖥 Languages</h2>
+
 ![emachipana's GitHub stats](https://github-readme-stats.vercel.app/api?username=emachipana&show_icons=true&theme=dracula)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emachipana&layout=compact&theme=dracula)
