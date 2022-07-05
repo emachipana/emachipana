@@ -1,6 +1,16 @@
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 <h2>Hi there I'm Enmanuel👋</h2>
-<a href="/www.linkedin.com/in/enmanuel-chipana-araujo-44aa5a226" target="_blank">Linkdin</a>
+<p align="center">
+    <a href="https://www.linkedin.com/in/enmanuel-chipana-araujo-44aa5a226/" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://www.facebook.com/enmanuel.chipana/" alt="Facebook">
+        <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" />
+    </a>
+    <a href="https://www.instagram.com/enmanuelchipana/" alt="Instagram">
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+    </a>
+</p>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
@@ -30,6 +40,7 @@
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 <h3>🤖 &nbsp;Stats </h3>
 
