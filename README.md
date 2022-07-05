@@ -33,8 +33,8 @@
 
 <h3>🤖 &nbsp;Stats </h3>
 
-![emachipana's GitHub stats](https://github-readme-stats.vercel.app/api?username=emachipana&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emachipana&layout=compact&theme=dracula)
+![emachipana's GitHub stats](https://github-readme-stats.vercel.app/api?username=emachipana&show_icons=true&theme=calm)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emachipana&layout=compact&theme=calm)
 
 <h3>🤖 &nbsp;Contact me </h3>
 
