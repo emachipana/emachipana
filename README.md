@@ -48,5 +48,5 @@
     <a href="https://www.instagram.com/enmanuelchipana/" alt="Instagram">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
     </a>
-    <a href="https://emachipana.vercel.app/"><h3>Personal Site</h3></a>
+    <a href="https://emachipana.vercel.app/" target="_blank"><h3>Personal Site</h3></a>
 </p>
