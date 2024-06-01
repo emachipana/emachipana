@@ -1,4 +1,3 @@
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 <h2>Hi there I'm Enmanuel 👋</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
